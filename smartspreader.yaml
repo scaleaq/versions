@@ -1,5 +1,5 @@
 images:
-  smartspreader-api: scaleaqcontainerregistry.azurecr.io/smartspreader-api:v1.0.2-prod
-  smartspreader-front-end: scaleaqcontainerregistry.azurecr.io/smartspreader-front-end:v1.0.0-prod
+  api: scaleaqcontainerregistry.azurecr.io/smartspreader-api:v1.0.2-prod
+  front-end: scaleaqcontainerregistry.azurecr.io/smartspreader-front-end:v1.0.0-prod
   nginx: nginx:1.23.1
   sql: mcr.microsoft.com/azure-sql-edge:1.0.6
