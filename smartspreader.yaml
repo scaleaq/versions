@@ -1,6 +1,6 @@
 services:
   api:
-    image: scaleaqcontainerregistry.azurecr.io/smartspreader-api:v1.0.3-prod
+    image: scaleaqcontainerregistry.azurecr.io/smartspreader-api:v1.0.4-prod
   front-end:
     image: scaleaqcontainerregistry.azurecr.io/smartspreader-front-end:v1.0.0-prod
   nginx:
